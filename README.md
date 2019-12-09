@@ -1,4 +1,8 @@
 # Tandem-coordinates-finder
+
+//  Created by Walfred MA in 2019, wangfei.ma@ucsf.edu.
+//  Copyright © 2019 UCSF-Kwoklab. All rights reserved.
+
 A tool used to recalculate coordinates for SV with tandems/repeats elements
 
 
