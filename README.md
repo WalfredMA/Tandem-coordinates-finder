@@ -17,14 +17,8 @@ optional arguments:
 
   -d DELTA, --delta DELTA
 
-                        delta file
-
   -i INPUTFILE, --input INPUTFILE
 
-                        input sv file
-
   -o OUTPUTFILE, --output OUTPUTFILE
-
-                        output sv file
 
 
