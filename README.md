@@ -8,7 +8,7 @@ A tool used to recalculate coordinates for SV with tandems/repeats elements
 
 ----------description----------
 
-When tandems and repeats exist, there might be more than one possible alignment and corresponding coordinates. This is a tool can locate existing SVs back on delta file and find alternative coordinates for them based on delta files. 
+When tandems and repeats exist, there might be more than one possible alignments and corresponding coordinates. This is a tool can locate existing SVs back in delta files and find alternative coordinates for them based on delta files. 
 
 ----------usage----------
 
